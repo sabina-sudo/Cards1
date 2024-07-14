@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+    width: 90%;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+img{
+width: 250px;
+
+}
+
+.selected{
+    background-color: red;
+}
